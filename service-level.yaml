@@ -1,0 +1,5 @@
+services:
+  - name: yw-sumologic-aws-lambda
+    owner: honey-badger
+    language: javascript
+    nonServiceType: tool
